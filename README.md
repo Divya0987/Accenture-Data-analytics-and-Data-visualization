@@ -16,6 +16,7 @@ Three requirements that Accenture is tasked to fulfill : Audit of big data pract
 Accenture Project Team :
 
 
+
 Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
